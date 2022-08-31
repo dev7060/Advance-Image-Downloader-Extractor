@@ -1,5 +1,7 @@
 # Advance-Image-Downloader-Extractor
 
+## Make sure to have the required keys/secrets, etc. to be able to access the APIs and send the mail.
+
 ## Usage
 
 ```
@@ -10,6 +12,6 @@ Example
 py prog.py mango 2022-08-30 17:45 dev7060@protonmail.com
 ```
 
-Architecture
+## Architecture
 
 ![This is an image](https://github.com/dev7060/Advance-Image-Downloader-Extractor/blob/main/images/img.PNG?raw=true)
