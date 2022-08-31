@@ -1,6 +1,6 @@
 # Advance-Image-Downloader-Extractor
 
-## Make sure to have the required keys/secrets, etc. to be able to access the APIs and send the mail.
+Make sure to have the required keys/secrets, etc. to be able to access the APIs and send the mail.
 
 ## Usage
 
