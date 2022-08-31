@@ -2,7 +2,7 @@
 
 Make sure to have the required keys/secrets, etc. to be able to access the APIs and send the mail.
 
-Web scraping may or may not be allowed according to the site terms.
+Web scraping may or may not be allowed according to the site terms. Links mentioned for demonstration purposes.
 
 ## Usage
 
